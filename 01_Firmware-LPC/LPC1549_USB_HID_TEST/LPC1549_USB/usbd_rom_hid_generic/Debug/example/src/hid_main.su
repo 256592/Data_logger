@@ -1,0 +1,6 @@
+E:\PS\P_NXP\LPC1549_USB\lpc_chip_15xx\inc/core_cm3.h:1323:22:NVIC_EnableIRQ	16	static
+E:\PS\P_NXP\LPC1549_USB\lpc_chip_15xx\inc/core_cm3.h:1405:22:NVIC_SetPriority	16	static
+../example/src/hid_main.c:62:6:USB_IRQHandler	8	static
+../example/src/hid_main.c:68:27:find_IntfDesc	32	static
+../example/src/hid_main.c:99:5:main	104	static
+../example/src/hid_main.c:203:6:RIT_IRQHandler	4	static

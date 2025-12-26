@@ -1,0 +1,39 @@
+22:27:54 **** Incremental Build of configuration Debug for project lpc_chip_15xx ****
+make -r -j8 all 
+make[1]: Nothing to be done for 'main-build'.
+Performing post-build steps
+arm-none-eabi-size "liblpc_chip_15xx.a" ; # arm-none-eabi-objdump -h -S "liblpc_chip_15xx.a" >"liblpc_chip_15xx.lss"
+   text	   data	    bss	    dec	    hex	filename
+    610	      0	      0	    610	    262	acmp_15xx.o (ex liblpc_chip_15xx.a)
+    790	      0	      0	    790	    316	adc_15xx.o (ex liblpc_chip_15xx.a)
+    298	      0	      4	    302	    12e	chip_15xx.o (ex liblpc_chip_15xx.a)
+   1700	      0	      0	   1700	    6a4	clock_15xx.o (ex liblpc_chip_15xx.a)
+    494	      0	      0	    494	    1ee	crc_15xx.o (ex liblpc_chip_15xx.a)
+     60	      0	      0	     60	     3c	dac_15xx.o (ex liblpc_chip_15xx.a)
+    294	      0	    288	    582	    246	dma_15xx.o (ex liblpc_chip_15xx.a)
+    192	      0	      0	    192	     c0	eeprom.o (ex liblpc_chip_15xx.a)
+    684	      0	      0	    684	    2ac	gpio_15xx.o (ex liblpc_chip_15xx.a)
+     84	      0	      0	     84	     54	i2c_common_15xx.o (ex liblpc_chip_15xx.a)
+    866	      0	      0	    866	    362	i2cm_15xx.o (ex liblpc_chip_15xx.a)
+    450	      0	      0	    450	    1c2	i2cs_15xx.o (ex liblpc_chip_15xx.a)
+    598	      0	      0	    598	    256	iap.o (ex liblpc_chip_15xx.a)
+    124	      0	      0	    124	     7c	iocon_15xx.o (ex liblpc_chip_15xx.a)
+      0	      0	      0	      0	      0	pinint_15xx.o (ex liblpc_chip_15xx.a)
+    300	      0	      0	    300	    12c	pmu_15xx.o (ex liblpc_chip_15xx.a)
+    962	      0	      0	    962	    3c2	ring_buffer.o (ex liblpc_chip_15xx.a)
+    692	      0	      0	    692	    2b4	ritimer_15xx.o (ex liblpc_chip_15xx.a)
+      0	      0	      0	      0	      0	rtc_15xx.o (ex liblpc_chip_15xx.a)
+    318	      0	      0	    318	    13e	sct_15xx.o (ex liblpc_chip_15xx.a)
+    412	      0	      0	    412	    19c	sct_pwm_15xx.o (ex liblpc_chip_15xx.a)
+    140	      0	      0	    140	     8c	sctipu_15xx.o (ex liblpc_chip_15xx.a)
+   1766	      0	      0	   1766	    6e6	spi_15xx.o (ex liblpc_chip_15xx.a)
+    328	      0	     12	    340	    154	stopwatch_15xx.o (ex liblpc_chip_15xx.a)
+    356	      0	      0	    356	    164	swm_15xx.o (ex liblpc_chip_15xx.a)
+    466	      0	      0	    466	    1d2	sysctl_15xx.o (ex liblpc_chip_15xx.a)
+    420	      0	      0	    420	    1a4	sysinit_15xx.o (ex liblpc_chip_15xx.a)
+   1116	      0	      0	   1116	    45c	uart_15xx.o (ex liblpc_chip_15xx.a)
+    114	      0	      0	    114	     72	wwdt_15xx.o (ex liblpc_chip_15xx.a)
+ 
+
+22:27:55 Build Finished. 0 errors, 0 warnings. (took 682ms)
+

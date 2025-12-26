@@ -1,0 +1,9 @@
+D:\NXP\BP\LPC1549_USB_HID\lpc_chip_15xx\inc\usbd/usbd_core.h:557:20:USB_IsConfigured	24	static
+../example/src/hid_mouse.c:65:13:setXYMouseReport	16	static
+../example/src/hid_mouse.c:71:13:setLeftButtonMouseReport	16	static
+../example/src/hid_mouse.c:82:13:Mouse_UpdateReport	16	static
+../example/src/hid_mouse.c:111:20:Mouse_GetReport	24	static
+../example/src/hid_mouse.c:129:20:Mouse_SetReport	24	static
+../example/src/hid_mouse.c:146:20:Mouse_EpIN_Hdlr	24	static
+../example/src/hid_mouse.c:164:13:Mouse_Init	96	static
+../example/src/hid_mouse.c:209:6:Mouse_Tasks	16	static

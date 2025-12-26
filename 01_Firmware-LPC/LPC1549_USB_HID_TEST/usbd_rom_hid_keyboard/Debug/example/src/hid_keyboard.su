@@ -1,0 +1,10 @@
+D:\NXP\BP\LPC1549_USB_HID\lpc_chip_15xx\inc\usbd/usbd_core.h:557:20:USB_IsConfigured	24	static
+D:\NXP\BP\LPC1549_USB_HID\usbd_rom_hid_keyboard\example\inc/ms_timer.h:86:20:ms_timerInit	16	static
+D:\NXP\BP\LPC1549_USB_HID\usbd_rom_hid_keyboard\example\inc/ms_timer.h:129:20:ms_timerStart	16	static
+D:\NXP\BP\LPC1549_USB_HID\usbd_rom_hid_keyboard\example\inc/ms_timer.h:139:20:ms_timerExpired	16	static
+../example/src/hid_keyboard.c:68:13:Keyboard_UpdateReport	16	static
+../example/src/hid_keyboard.c:98:20:Keyboard_GetReport	24	static
+../example/src/hid_keyboard.c:119:20:Keyboard_SetReport	24	static
+../example/src/hid_keyboard.c:147:20:Keyboard_EpIN_Hdlr	24	static
+../example/src/hid_keyboard.c:162:13:Keyboard_init	96	static
+../example/src/hid_keyboard.c:208:6:Keyboard_Tasks	16	static

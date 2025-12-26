@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE infoList
+  SYSTEM "crt_infolist.dtd">
+<infoList vendor="NXP">
+   <info name="MCXA153" chip="MCXA153">
+      <chip>
+         <name>MCXA153</name>
+         <family>MCXA1XX</family>
+         <vendor>NXP</vendor>
+         <memory id="Flash"
+                 type="Flash"
+                 size="128"
+                 is_ro="true"
+                 can_program="true"/>
+         <memory id="RAM" type="RAM" size="36"/>
+         <memoryInstance id="PROGRAM_FLASH"
+                         derived_from="Flash"
+                         location="0x00000000"
+                         size="0x00020000"
+                         driver="MCXA1xx.cfx"/>
+         <memoryInstance id="SRAM"
+                         derived_from="RAM"
+                         location="0x20000000"
+                         size="0x00006000"/>
+         <memoryInstance id="SRAMX0"
+                         derived_from="RAM"
+                         location="0x04000000"
+                         size="0x00002000"/>
+         <memoryInstance id="SRAMX1"
+                         derived_from="RAM"
+                         location="0x04002000"
+                         size="0x00001000"/>
+      </chip>
+      <processor>
+         <name gcc_name="cortex-m33-nodsp">Cortex-M33 (No DSP)</name>
+         <family>Cortex-M</family>
+      </processor>
+   </info>
+</infoList>

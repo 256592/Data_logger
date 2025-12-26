@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="D:\nxp\MCUXpressoIDE_24.12.148\ide\Examples\LPCOpen\lpcopen_2_20_lpcxpresso_nxp_lpcxpresso_1549.zip"/>
+			<item value="E:\nxp\MCUXpressoIDE_24.9.25\ide\Examples\LPCOpen\lpcopen_2_20_lpcxpresso_nxp_lpcxpresso_1549.zip"/>
+		</list>
+	</section>
+</section>

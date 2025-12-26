@@ -1,0 +1,4 @@
+D:\NXP\BP\LPC1549_USB_HID\lpc_chip_15xx\inc/core_cm3.h:1323:22:NVIC_EnableIRQ	16	static
+../example/src/hid_main.c:62:6:USB_IRQHandler	8	static
+../example/src/hid_main.c:68:27:find_IntfDesc	32	static
+../example/src/hid_main.c:99:5:main	104	static

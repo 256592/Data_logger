@@ -1,0 +1,11 @@
+21:48:41 **** Incremental Build of configuration Debug for project usbd_rom_hid_mouse ****
+make -r -j8 all 
+make[1]: Nothing to be done for 'main-build'.
+Performing post-build steps
+arm-none-eabi-size "usbd_rom_hid_mouse.axf"; # arm-none-eabi-objcopy -v -O binary "usbd_rom_hid_mouse.axf" "usbd_rom_hid_mouse.bin" ; # checksum -p LPC1549 -d "usbd_rom_hid_mouse.bin";
+   text	   data	    bss	    dec	    hex	filename
+   7816	     36	    500	   8352	   20a0	usbd_rom_hid_mouse.axf
+ 
+
+21:48:41 Build Finished. 0 errors, 0 warnings. (took 285ms)
+

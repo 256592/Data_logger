@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sdk-packages>
+<package hash="1751284008000" path="D:\NXP\MCUXpressoIDE_25.6.136\ide\plugins\com.nxp.mcuxpresso.sdk.sdk_2.x_frdm-mcxa153_25.6.0.201911251446\sdks\fedc1f09d86f5864aac7186a078a6659.zip" schema="manifest-schema/sdk_manifest_v3.15.xsd"/>
+<package hash="1751401487284" path="C:\Users\hanas\mcuxpresso\02\SDKPackages\com.nxp.mcuxpresso.sdk.sdk_2.x_mk26fn2m0xxx18_p2site_2.11.0.2019112514465337443941719425657.zip" schema="manifest-schema/sdk_manifest_v3.15.xsd"/>
+<package hash="1751401486701" path="C:\Users\hanas\mcuxpresso\02\SDKPackages\com.nxp.mcuxpresso.sdk.sdk_2.x_frdm-k66f_p2site_2.11.0.2019112514464194229098495594689.zip" schema="manifest-schema/sdk_manifest_v3.15.xsd"/>
+<package hash="1751401482042" path="C:\Users\hanas\mcuxpresso\02\SDKPackages\com.nxp.mcuxpresso.sdk.sdk_2.x_mk20dn512xxx10_p2site_2.2.0.2019112514469883023923281000115.zip" schema="manifest-schema/sdk_manifest_v3.3.xsd"/>
+<package hash="1751401482433" path="C:\Users\hanas\mcuxpresso\02\SDKPackages\com.nxp.mcuxpresso.sdk.sdk_2.x_mk20dx256xxx10_p2site_2.2.0.2019112514462996638661878014732.zip" schema="manifest-schema/sdk_manifest_v3.3.xsd"/>
+<package hash="1751401481992" path="C:\Users\hanas\mcuxpresso\02\SDKPackages\com.nxp.mcuxpresso.sdk.sdk_2.x_mk20dx128xxx10_p2site_2.2.0.20191125144617271956606423378853.zip" schema="manifest-schema/sdk_manifest_v3.3.xsd"/>
+</sdk-packages>

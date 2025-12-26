@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chips chipVendor="NXP" family="MCXA1XX">
+   <chip name="MCXA153" flash=""/>
+</chips>

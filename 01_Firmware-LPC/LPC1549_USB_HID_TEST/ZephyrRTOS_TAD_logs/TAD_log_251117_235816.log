@@ -1,0 +1,11 @@
+"Task Aware Debugger for GDB" version 25.6.0 (202506250844)
+Copyright 2016-2025 NXP
+==================================
+23:51:04.09 INFO: [ZephyrRTOS] .config file could not be read [D:\NXP\BP\LPC1549_USB_HID\usbd_rom_hid_generic\Debug\.config (Systém nemůže nalézt uvedený soubor)]
+23:51:04.09 INFO: [TadModel] DSF session ID 14 has started.
+23:51:08.202 INFO: [TadState] TAD state changed: DEBUG_STARTED -> DEBUG_INIT_0 (SUSPENDED, USER_REQUEST)
+23:51:10.102 INFO: [TadState] TAD state changed: DEBUG_INIT_0 -> DEBUG_INIT_1 (RESUMED, USER_REQUEST)
+23:51:10.178 INFO: [TadState] TAD state changed: DEBUG_INIT_1 -> DEBUG_SUSPENDED (SUSPENDED, BREAKPOINT)
+23:51:25.455 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_RESUMED (RESUMED, USER_REQUEST)
+23:58:15.384 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, SIGNAL)
+23:58:16.399 INFO: [TadModel] DSF session ID 14 has ended.
