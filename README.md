@@ -1,3 +1,5 @@
+<!-- Toto je komentář a nebude zobrazen -->
+
 # Univerzální logický analyzátor a data logger
 > Semestrální práce
 
